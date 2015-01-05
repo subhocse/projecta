@@ -18,7 +18,7 @@ namespace ProjectA
 
             ClassA a = new ClassA();
             a.Method1();
-            a.Method2();
+            a.Method2(); // hello world
             a.Method3();
 
             ClassB b = new ClassB();
