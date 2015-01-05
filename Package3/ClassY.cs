@@ -11,6 +11,7 @@ namespace Package3
         public int Method2()
         {
             return 5;
+			// this is a comment
         }
     }
 }
