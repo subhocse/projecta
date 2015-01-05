@@ -19,7 +19,7 @@ namespace ProjectA
             ClassA a = new ClassA();
             a.Method1();
             a.Method2();
-            a.Method3();
+            a.Method3(); // this is a test comment
 
             ClassB b = new ClassB();
             b.Method1();
