@@ -13,7 +13,7 @@ namespace ProjectA
     {
         public override void Load()
         {
-            Bind<IInterfaceSomething>().To<ClassM>();
+            Bind<IInterfaceSomething>().To<ClassM>();  //jn,jn,n,
         }
     }
 }

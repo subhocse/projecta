@@ -15,3 +15,17 @@ E:\Projects\AspNet\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
 C:\Users\jalal\Desktop\projecta\ProjectA\bin\Debug\ProjectA.exe.config
 C:\Users\jalal\Desktop\projecta\ProjectA\obj\Debug\ProjectA.exe
 C:\Users\jalal\Desktop\projecta\ProjectA\obj\Debug\ProjectA.pdb
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\ProjectA\bin\Debug\ProjectA.exe.config
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\ProjectA\obj\Debug\ProjectA.pdb
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\ProjectA\bin\Debug\Ninject.dll
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\ProjectA\bin\Debug\Package1.dll
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\ProjectA\bin\Debug\Package2.dll
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\ProjectA\bin\Debug\Package3.dll
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\ProjectA\bin\Debug\Package1.pdb
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\ProjectA\bin\Debug\Package2.pdb
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\ProjectA\bin\Debug\Package3.pdb
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\ProjectA\bin\Debug\Ninject.xml
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\ProjectA\obj\Debug\ProjectA.csprojResolveAssemblyReference.cache
