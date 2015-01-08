@@ -18,8 +18,8 @@ namespace ProjectA
 
             ClassA a = new ClassA();
             a.Method1();
-            a.Method2();
-            a.Method3();
+            a.Method2(); // hello world
+            a.Method3();//fswefwf
 
             ClassB b = new ClassB();/// hellowrsfsjhkldwj
             b.Method1();

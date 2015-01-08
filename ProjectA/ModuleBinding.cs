@@ -13,7 +13,9 @@ namespace ProjectA
     {
         public override void Load()
         {
+
             Bind<IInterfaceSomething>().To<ClassM>();//jb,jandkjs
+
         }
     }
 }
