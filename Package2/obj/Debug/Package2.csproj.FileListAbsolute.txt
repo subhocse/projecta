@@ -7,3 +7,12 @@ E:\Projects\AspNet\ProjectA\Package2\bin\Debug\Package1.dll
 E:\Projects\AspNet\ProjectA\Package2\bin\Debug\Package1.pdb
 E:\Projects\AspNet\ProjectA\Package2\bin\Debug\Package3.dll
 E:\Projects\AspNet\ProjectA\Package2\bin\Debug\Package3.pdb
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\Package2\bin\Debug\Package2.dll
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\Package2\bin\Debug\Package2.pdb
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\Package2\bin\Debug\Package1.dll
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\Package2\bin\Debug\Package3.dll
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\Package2\bin\Debug\Package1.pdb
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\Package2\bin\Debug\Package3.pdb
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\Package2\obj\Debug\Package2.csprojResolveAssemblyReference.cache
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\Package2\obj\Debug\Package2.dll
+C:\Users\subho_a7x\Desktop\Dev Skill(Project)\Package2\obj\Debug\Package2.pdb
